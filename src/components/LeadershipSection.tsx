@@ -8,7 +8,7 @@ const leadershipRoles: LeadershipExperience[] = [
     id: 'org-sec',
     role: 'Organizing Secretary',
     organization: 'GUB Competitive Programming Community',
-    period: '2025 - Ongoing',
+    period: '2026 - Ongoing',
     category: 'leadership',
     details: [
       'Spearheading administrative scheduling for intra-university code contests.',
@@ -20,7 +20,7 @@ const leadershipRoles: LeadershipExperience[] = [
     id: 'photo-sec',
     role: 'Photography Secretary',
     organization: 'Green University Computer Club',
-    period: '2025 - Ongoing',
+    period: '2026 - Ongoing',
     category: 'leadership',
     details: [
       'Directing visual capturing operations for high-grade technical seminars.',
@@ -32,7 +32,7 @@ const leadershipRoles: LeadershipExperience[] = [
     id: 'graphic-des',
     role: 'Graphics Designer',
     organization: 'GUB Competitive Programming Community',
-    period: '2024 - 2025',
+    period: '2025 - 2026',
     category: 'leadership',
     details: [
       'Authoring high-contrast layouts, visual logos, print banners, and digital graphics.',
@@ -44,7 +44,7 @@ const leadershipRoles: LeadershipExperience[] = [
     id: 'volunteer',
     role: 'Volunteer',
     organization: 'Wrapping Up Semester One',
-    period: '2024',
+    period: '2025',
     category: 'leadership',
     details: [
       'Facilitated event registration, logistics tracking, and tech booth setup.',
@@ -67,7 +67,7 @@ const hackathons: LeadershipExperience[] = [
     id: 'unesco',
     role: 'UNESCO CogLabs Workshop',
     organization: 'UNESCO Network',
-    period: '2024',
+    period: '2026',
     category: 'workshop',
     details: ['Participated in computer vision workflows and edge AI systems.', 'Explored ethics in cognitive analytics architectures.']
   },
