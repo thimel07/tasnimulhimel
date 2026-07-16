@@ -114,7 +114,7 @@ export default function LeadershipSection() {
                 : 'text-[#94a3b8] hover:text-cyan-400'
             }`}
           >
-            ORGANIZATIONAL_SECRETARY
+            CLUB_ACTIVITIES 
           </button>
           <button
             onClick={() => setActiveTab('competitions')}
