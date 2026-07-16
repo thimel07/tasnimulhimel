@@ -3,6 +3,7 @@ import { motion } from 'motion/react';
 import { User, Code2, GraduationCap, Award, BrainCircuit } from 'lucide-react';
 
 export default function AboutSection() {
+    const codeString = `
 class TasnimulHasanHimel {
   readonly name = "Tasnimul Hasan Himel";
   readonly status = "BSc in CSE Student";
